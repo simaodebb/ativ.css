@@ -1,0 +1,122 @@
+.ladoesquerdo {
+  background-color: #bc8f8f;
+  height: 100vh;
+  width: 350px;
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  text-align: center;
+  font-size: 13px;
+}
+
+.ladodireito {
+  position: fixed;
+  background-color: black;
+  top: 0px;
+  left: 350px;
+  height: 100vh;
+  width: 1020px;
+  text-align: left 100px;
+}
+
+h1 {
+  position: relative;
+  font-size: 20px;
+  color: white;
+  text-align: left;
+  top: 250px;
+  left: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.sobre {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  position: relative;
+  top: 130px;
+}
+
+.conhecimentos {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  position: relative;
+  top: 130px;
+}
+
+.objetivo {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  position: relative;
+  top: 130px;
+}
+
+.imgConfig100 {
+  height: 250px;
+  position: relative;
+  top: 100px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#redessociais1 img {
+  position: relative;
+  top: 250px;
+  left: 50px;
+  width: 7%;
+  height: 0%;
+}
+
+#redessociais2 img {
+  position: relative;
+  top: 175px;
+  left: 120px;
+  width: 7%;
+  height: 0%;
+}
+
+#redessociais3 img {
+  position: relative;
+  top: 104px;
+  left: 190px;
+  width: 6%;
+  height: 0%;
+}
+
+#redessociais4 img {
+  position: relative;
+  top: 38px;
+  left: 258px;
+  width: 6%;
+  height: 0%;
+}
+
+.infos1 {
+  background-color: #faf0e6;
+  font-family: monospace;
+  color: black;
+  position: fixed;
+  text-align: left;
+}
+
+.infos2 {
+  background-color: #faf0e6;
+  font-family: monospace;
+  color: black;
+  position: fixed;
+  text-align: left;
+}
+
+.infos3 {
+  background-color: #faf0e6;
+  font-family: monospace;
+  color: black;
+  position: fixed;
+  text-align: left;
+}
